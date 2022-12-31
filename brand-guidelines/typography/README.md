@@ -3,12 +3,36 @@ Use esta documentação como um guia para o uso adequado da tipografia Base39.
 
 **Índice**
 - [Tipografia](#tipografia)
+  - [Fontes](#fontes)
+    - [Mona Sans](#mona-sans)
+    - [Hubot Sans](#hubot-sans)
   - [Títulos](#títulos)
   - [Parágrafos](#parágrafos)
   - [Emparelhamento](#emparelhamento)
     - [Especificações de títulos](#especificações-de-títulos)
     - [Especificações de subtítulo](#especificações-de-subtítulo)
     - [Especificações de parágrafos](#especificações-de-parágrafos)
+
+---
+
+## Fontes
+As fontes oficiais da Base39 também refletem nossa paixão tecnologia. Mona Sans & Hubot Sans são fontes open source criadas pelo Github. [Saiba mais.](https://github.com/mona-sans)
+
+### Mona Sans
+
+Uma tipografia forte e versátil, desenhada em conjunto com o [Degarism](https://degarism.com/) e inspirada nos grotescos da era industrial. Mona Sans funciona bem em produtos, web e impressão. Feito para funcionar bem junto com o ajudante da Mona Sans, Hubot Sans.
+
+Mona Sans é uma fonte variável. As fontes variáveis permitem que diferentes variações de um tipo de letra sejam incorporadas em um único arquivo e são suportadas por todos os principais navegadores, permitindo benefícios de desempenho e controle de design granular do peso, largura e inclinação do tipo de letra.
+
+[Baixar Mona Sans](https://github.com/github/mona-sans)
+
+### Hubot Sans
+
+Hubot Sans é o ajudante robótico da Mona Sans. A fonte foi projetada com detalhes mais geométricos para dar um toque técnico e idiossincrático – perfeito para cabeçalhos e citações. Feito em conjunto com a [Degarism](https://degarism.com/).
+
+Hubot Sans é uma fonte variável. As fontes variáveis permitem que diferentes variações de um tipo de letra sejam incorporadas em um único arquivo e são suportadas por todos os principais navegadores.
+
+[Baixar Hubot Sans](https://github.com/github/hubot-sans)
 
 ---
 
