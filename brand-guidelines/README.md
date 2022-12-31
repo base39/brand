@@ -2,7 +2,7 @@
 
 # Bem-vindo às diretrizes oficiais da marca Base39
 
-## Table of contents
+## Índice
 - [Brand Guidelines](./README.md)
     - [Logo](./logo/README.md)
     - [Cores](./color/README.md)
