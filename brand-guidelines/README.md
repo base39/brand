@@ -7,4 +7,4 @@
     - [Logo](./logo/README.md)
     - [Cores](./color/README.md)
     - [Tipografia](./typography/README.md)
-    - [LinkedIn](brand-guidelines/linkedin/README.md)
+    - [LinkedIn](./linkedin/README.md)
