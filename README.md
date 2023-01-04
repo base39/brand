@@ -11,3 +11,4 @@ Navegue por nossas diretrizes de marca usando os links abaixo:
     - [Logo](brand-guidelines/logo/README.md)
     - [Cores](brand-guidelines/color/README.md)
     - [Tipografia](brand-guidelines/typography/README.md)
+    - [LinkedIn](brand-guidelines/linkedin/README.md)
