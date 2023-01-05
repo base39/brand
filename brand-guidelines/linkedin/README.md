@@ -1,5 +1,3 @@
-![Four base39 logos](../../assets/github-banner-generic.png)
-
 # LinkedIn personalizado
 Use esta documentação como um guia para o uso adequado da capa Base39 e foto do perfil.
 
