@@ -1,21 +1,24 @@
-# Documentação de cores e diretrizes de uso
+# Cores
+As cores são cruciais para a identificação e definir o clima de comunicação. Use esta documentação como um guia para o uso adequado das cores.
 
-Use esta documentação como um guia para o uso adequado das cores Base39.
+*Para materiais impressos é obrigatório o uso de códigos CMYK*
 
 **Índice**
-- [Documentação de cores e diretrizes de uso](#documentação-de-cores-e-diretrizes-de-uso)
-  - [Primária](#primária)
+- [Cores](#cores)
+  - [Cor primária - Red Orange Juice](#cor-primária---red-orange-juice)
   - [Secundária](#secundária)
   - [Neutras](#neutras)
   - [Base colors](#base-colors)
 
 ---
 
-## Primária
+## Cor primária - Red Orange Juice
 
 A cor primária da nossa marca representa nosso desejo de inovação.
 
-![Primary purple shades](./assets/color-primary.jpg)
+Red Orange Juice é a nossa cor principal. Usamos como nosso principal identificador, destacando nosso espírito ousado e nos destacando entre as cores tradicionais das startups de tecnologia.
+
+![Primary red shades](./assets/color-primary.jpg)
 
 | Nome da cor | Hex |
 | --- | --- |
